@@ -1,6 +1,6 @@
 FROM java:8
 
-EXPOSE 8080
+EXPOSE 8096
 
 ADD target/dockcube-first.jar dockcube-first.jar
 
